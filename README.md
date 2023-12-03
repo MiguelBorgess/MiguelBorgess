@@ -1,6 +1,6 @@
 Oi! Sou o Miguel Borges
 
-- 🌱 Estudando Java atualmente
+- 🌱 Estudando Java
 
 
 <div style="display: inline_block"><br>
